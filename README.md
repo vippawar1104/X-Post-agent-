@@ -6,7 +6,7 @@ An automated n8n workflow that generates AI-powered images and posts them to X (
 
 ### Workflow Screenshot
 
-![Xpostagent Workflow](X Post agent.png)
+[Xpostagent Workflow](X-Post-agent-.png)
 
 ### Video Demonstration
 
