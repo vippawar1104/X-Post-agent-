@@ -8,10 +8,6 @@ An automated n8n workflow that generates AI-powered images and posts them to X (
 
 ![Xpostagent Workflow](Xpostagent.png)
 
-### Video Demonstration
-
-[Watch the workflow in action](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ## Overview
 
 Xpostagent is an end-to-end automation workflow built with n8n that:
